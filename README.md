@@ -1,0 +1,2 @@
+# affilorama
+GitHub Pages
